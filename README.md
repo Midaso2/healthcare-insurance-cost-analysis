@@ -1,6 +1,5 @@
 # Healthcare Insurance Cost Analysis Dashboard
-
-Welcome to the **Healthcare Insurance Cost Analysis Dashboard**—a hands-on, interactive solution that makes it easy to explore and understand what drives healthcare insurance costs. Built with both technical and non-technical users in mind, our dashboard combines deep statistical analysis, interactive visuals, and an intuitive Streamlit interface to help anyone in the insurance industry make smarter, data-driven decisions.
+This comprehensive analysis of the `insurance.csv` dataset aims to identify the key factors influencing medical insurance charges. Our findings reveal that **smoking status** is by far the most dominant predictor of higher charges, followed significantly by **age** and **BMI category (obesity)**. Other factors like sex, number of children, and geographic region show less pronounced impacts, though regional nuances exist. These insights are crucial for insurance providers to refine risk assessment, optimize premium structures, and develop targeted wellness programs. Help me to get clear introduction for the above paragraph. remove and keep only important parts
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
